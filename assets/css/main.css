@@ -3710,6 +3710,7 @@ input, select, textarea {
 		#footer > * {
 			width: calc(50% - 2em);
 			margin-left: 2em;
+			text-align: center;
 		}
 
 		#footer .copyright {
@@ -3743,7 +3744,7 @@ input, select, textarea {
 				}
 
 				#footer .copyright {
-					text-align: left;
+					text-align: center;
 				}
 
 		}
